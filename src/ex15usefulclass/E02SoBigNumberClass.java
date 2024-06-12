@@ -16,7 +16,7 @@ public class E02SoBigNumberClass {
 			연산할때 사용한다. 인자로 전달할때 반드시 문자열형태로
 			기술해야한다.
 		 */
-		//long lngNum = 100000000000000000000;//코드작성불가		
+//		long lngNum = 100000000000000000000L;//코드작성불가		
 		BigInteger bigValue1 = new BigInteger("100000000000000000000");
 		BigInteger bigValue2 = new BigInteger("-99999999999999999999");
 		
