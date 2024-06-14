@@ -1,4 +1,4 @@
-package ex17collection;
+package quiz;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -72,7 +72,7 @@ class UnivFriend extends Friend	{
 }
 
 //메인클래스
-public class MyFriendInfoList {
+public class Ex07MyFriendInfoBook {
 	public static void menuShow() {
 		System.out.println("######## 메뉴를 입력하세요 ########");
 		System.out.print("1.고딩친구입력 ");
