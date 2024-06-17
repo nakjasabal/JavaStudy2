@@ -3,7 +3,7 @@ package common;
 public class Person
 {
 	//멤버변수
-	public String name;
+	private String name;
 	private int age;
 	//생성자
 	public Person(String name, int age)
