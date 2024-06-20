@@ -97,16 +97,6 @@ public class QuHashSet {
 		}
 		if(isFind==false)
 			System.out.println("해당 영웅은 없어요ㅜㅜ");
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
 	}
 
 }
